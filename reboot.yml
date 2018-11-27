@@ -1,5 +1,0 @@
----
-- hosts: all
-  tasks:
-  - name: restart the server
-    command: reboot
